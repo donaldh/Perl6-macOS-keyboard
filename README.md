@@ -36,3 +36,5 @@ The remaining symbols were placed to be symmetrical with or adjacent to existing
 This Perl 6 keylayout should work with all well-behaved macOS applications. I have tried it with
 *Chrome*, *GNU Emacs (cocoa)* and *Terminal*. The really nice thing is that the *Keyboard
 Viewer* serves as a really nice on-screen cheat sheet.
+
+PRs or Issues are welcome.
