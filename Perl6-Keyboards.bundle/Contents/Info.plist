@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.perl6keyboards</string>
+	<string>org.perl6.keyboardlayout.perl6keyboards</string>
 	<key>CFBundleName</key>
-	<string>Perl6 Keyboards</string>
+	<string>Perl 6 Keyboards</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>KLInfo_British Perl6</key>
+	<key>KLInfo_British Perl 6</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.perl6keyboards.britishperl6</string>
+		<string>org.perl6.keyboardlayout.perl6keyboards.britishperl6</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
