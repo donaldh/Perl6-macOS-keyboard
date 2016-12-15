@@ -19,6 +19,17 @@ Pressing *Shift* while in the *P6* keyboard state gives this additional layout:
 
 ![P6 Shifted Keylayout](images/p6shiftmap.png)
 
+## Installation
+
+* Clone this repo
+* Run `make install`
+* Open *keyboard* preferences
+* Add the *British Perl6* input source
+
+![Input Sources](images/keyboardprefs.png)
+
+## Design
+
 Hopefully my key choices are reasonably intuitive:
 
 * `0..9` are ⁰..⁹ - SUPERSCRIPT ZERO .. NINE
@@ -33,8 +44,16 @@ Hopefully my key choices are reasonably intuitive:
 
 The remaining symbols were placed to be symmetrical with or adjacent to existing choices.
 
+## Compatibility
+
 This Perl 6 keylayout should work with all well-behaved macOS applications. I have tried it with
-*Chrome*, *GNU Emacs (cocoa)* and *Terminal*. The really nice thing is that the *Keyboard
-Viewer* serves as a really nice on-screen cheat sheet.
+*Chrome*, *GNU Emacs (cocoa)* and *Terminal*.
+
+## User Guide
+
+The really nice thing is that the *Keyboard Viewer* serves as a really nice on-screen cheat
+sheet.
+
+## New Features
 
 PRs or Issues are welcome.
